@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124326327639",
+    "firebase_url": "https://bigfamily-4a0b9.firebaseio.com",
+    "project_id": "bigfamily-4a0b9",
+    "storage_bucket": "bigfamily-4a0b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124326327639:android:c7b77cfe89ccd96a",
+        "android_client_info": {
+          "package_name": "com.bws.bigfamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124326327639-35e0riufq00o32kjvj008lcm9tlbtrlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPhIKJOIkeOUTJE22Tdpih4nqXQNUpEfE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
